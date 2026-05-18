@@ -1,2 +1,4 @@
 This is the first git demo file. 
  nano is the command to open a file
+updated 
+also creates a file if not existend and writes
